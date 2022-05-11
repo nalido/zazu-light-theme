@@ -4,15 +4,22 @@ A light theme example written in SASS with node/gulp.
 
 [View a demo](https://tinytacoteam.github.io/zazu-theme-playbook/#tinytacoteam/zazu-light-theme)
 
-![Screenshot](./images/screenshot.png)
+预览样式
+
+![Screenshot](./images/Snipaste_preview.png)
+
+鼠标hover样式
+
+![Screenshot](./images/Snipaste_preview_hover.png)
+
 
 ## Installing
 
-Mark `tinytacoteam/zazu-light-theme` inside of your `~/.zazurc.json` file.
+Mark `nalido/zazu-light-theme` inside of your `~/.zazurc.json` file.
 
 ~~~ json
 {
-  "theme": "tinytacoteam/zazu-light-theme"
+  "theme": "nalido/zazu-light-theme"
 }
 ~~~
 

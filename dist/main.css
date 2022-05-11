@@ -120,12 +120,10 @@ section#zazu div.results ul li:hover {
 
 section#zazu div.results ul li blockquote{
   display: none;
-  width: 50%;
+  width: 288px;
+  height: 294px;
   font-size: 12px;
   line-height: 12px !important;
-  overflow: auto;
-  margin-inline-start: 12px;
-  margin-inline-end: 12px;
   background-color: white;
   position:absolute;
   top: 67px;
